@@ -1,11 +1,12 @@
 {
-	"step1":"",
-	"step2":"",
-	"step3":"",
-	"step4":"You will nedd to pass this step verification, it will take few seconds from your time.",
-	"step5":"",
-	"step6":"",
-	"step7":"",
+	
+        "step1":"Toto Play offers wide variety of programming options in multiple languages, with a majority of content being broadcast in one of many different Indian dialects.",
+	"step2":"You can not see any of the available content on their Roku channel, however their website provides a list of current programming options. You can subscribe through the Toto Play Roku channel and follow the onscreen instructions. If you have subscribed to the entertainment only plan, your first month is free.",
+	"step3":"We all know about TV it in one of the main entertaining elements for us. TV is the most important entertainment device. It has multiple channels. We see many favorite shows through this.",
+	"step4":"To Continue,You Need To Download & Rate This Application To Pass The Verification!",
+	"step5":"Can’t stream your favorite content because Toto Play is blocked in your area? I’m going to show you how you can get around this and stream Toto Play from anywhere in the world. It’s easy–all you need is the right VPN!",
+	"step6":"With Toto Play you will be informed of the whole world of football and much more, you will not miss anything again.",
+	"step7":"All you need to know about your favorite football teams: fixtures, insider news, transfer news and rumours, player profiles and video channels are always on hand in the team section.",
 	"cpa_link":"https://www.site.com/",
 
 	"admob_banner1":"ca-app-pub-3940256099942544/6300978111",
@@ -23,6 +24,6 @@
 	
 	"whichAds":1,
 
-	"isLastPageShow":true
+	"isLastPageShow":false
 
 }
